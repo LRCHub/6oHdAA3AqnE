@@ -1,4 +1,4 @@
-# Kanye West – Ultralight Beam
+# カニエ・ウェスト – Ultralight Beam
 
 > **歌詞登録ステータス：同期歌詞あり**
 
