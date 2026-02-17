@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Ultralight Beam",
+  "base_artist": "Kanye West",
+  "createdAt": "2026-02-17T06:11:23.598363Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ultralight Beam",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/01_Ultralight_Beam_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ultralight Beam (feat. Chance the Rapper & Kirk Franklin)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/02_Ultralight_Beam_(feat._Chance_the_Rapper_&_Kirk_Franklin)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ultralight Beam (ft. Chance the Rapper, Kirk Franklin, The‐Dream & Kelly Green)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/03_Ultralight_Beam_(ft._Chance_the_Rapper,_Kirk_Franklin,_The‐Dream_&_Kelly_Green)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ultralight Beam (ft. Chance the Rapper, Kirk Franklin, The-Dream & Kelly Green)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/04_Ultralight_Beam_(ft._Chance_the_Rapper,_Kirk_Franklin,_The-Dream_&_Kelly_Green)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ultralight Beam - Spotify Session",
+      "artist": "Local Natives",
+      "has_synced": true,
+      "path": "select/05_Ultralight_Beam_-_Spotify_Session_Local_Natives.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ultralight Beam",
+      "artist": "Local Natives",
+      "has_synced": true,
+      "path": "select/06_Ultralight_Beam_Local_Natives.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ultralight Beam",
+      "artist": "Cub Sport",
+      "has_synced": true,
+      "path": "select/07_Ultralight_Beam_Cub_Sport.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ultralight Beam",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/08_Ultralight_Beam_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ultralight Beam [ft. Chance the Rapper, The-Dream & Kirk Franklin]",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/09_Ultralight_Beam_[ft._Chance_the_Rapper,_The-Dream_&_Kirk_Franklin]_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ultralight Beam",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/10_Ultralight_Beam_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ultralight Beam (feat. Chance The Rapper, Kirk Franklin, The-Dream & Kelly Price)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/11_Ultralight_Beam_(feat._Chance_The_Rapper,_Kirk_Franklin,_The-Dream_&_Kelly_Price_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "01 - Ultralight Beam",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/12_01_-_Ultralight_Beam_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ultralight Beam",
+      "artist": "Sunday Service Choir",
+      "has_synced": true,
+      "path": "select/13_Ultralight_Beam_Sunday_Service_Choir.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ultralight Beam Explicit",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/14_Ultralight_Beam_Explicit_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ultralight Beam",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/15_Ultralight_Beam_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ultralight Beam",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/16_Ultralight_Beam_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ultralight Beam",
+      "artist": "EN",
+      "has_synced": false,
+      "path": "select/17_Ultralight_Beam_EN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ultralight Beam",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/pl_01_Ultralight_Beam_Kanye_West.txt"
+    }
+  ]
+}
